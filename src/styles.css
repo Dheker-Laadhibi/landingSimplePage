@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*google font poppins*/
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&family=Poppins:wght@200;300;400;500;600;700&family=Work+Sans:ital,wght@0,400;0,700;1,200;1,400;1,800&display=swap');
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+
+}
